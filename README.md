@@ -2,6 +2,6 @@
 
 # Table of Contents
 
-| Practice                            | Directory |
-| --------                            | --------- |
-| Quantopian Trading Practice         | quant_trading |
+| Practice | Location |
+| :--- | ---: |
+| Quantopian Trading Practice | quant_trading |
