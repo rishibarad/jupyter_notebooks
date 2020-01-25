@@ -1,6 +1,6 @@
-# Jupyter notebooks for testing concepts
+# Jupyter Notebooks for Testing Concepts
 
-## Table of Contents
+# Table of Contents
 
 | Practice | Directory |
 | -------- | --------- |
