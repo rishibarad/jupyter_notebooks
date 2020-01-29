@@ -5,3 +5,4 @@
 | Practice | Location |
 | --- | --- |
 | Quantopian Trading Practice | quant_trading |
+| Computer Vision Notebooks | main repo |
